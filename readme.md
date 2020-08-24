@@ -43,7 +43,6 @@ All files: https://github.com/SimonCropp/EmptyFiles/tree/master/files
 
 ### Archive <!-- include: extensions. path: /src/EmptyFiles.Tests/extensions.include.md -->
 
-  * 7z (32 bytes)
   * bz2 (14 bytes)
   * gz (29 bytes)
   * tar (1.5 KB)

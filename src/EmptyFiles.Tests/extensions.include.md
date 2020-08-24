@@ -1,6 +1,5 @@
 ### Archive
 
-  * 7z (32 bytes)
   * bz2 (14 bytes)
   * gz (29 bytes)
   * tar (1.5 KB)
